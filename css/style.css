@@ -418,3 +418,6 @@ img {
   transform: scale(1.1);
 }
 */
+.rotatephoto {
+  transform: rotate( -90deg );
+}
